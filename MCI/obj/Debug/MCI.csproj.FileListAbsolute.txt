@@ -1,0 +1,9 @@
+c:\users\ok2ju\documents\visual studio 2012\Projects\MCI\MCI\bin\Debug\MCI.exe.config
+c:\users\ok2ju\documents\visual studio 2012\Projects\MCI\MCI\bin\Debug\MCI.exe
+c:\users\ok2ju\documents\visual studio 2012\Projects\MCI\MCI\bin\Debug\MCI.pdb
+c:\users\ok2ju\documents\visual studio 2012\Projects\MCI\MCI\obj\Debug\MCI.csprojResolveAssemblyReference.cache
+c:\users\ok2ju\documents\visual studio 2012\Projects\MCI\MCI\obj\Debug\MCI.Form1.resources
+c:\users\ok2ju\documents\visual studio 2012\Projects\MCI\MCI\obj\Debug\MCI.Properties.Resources.resources
+c:\users\ok2ju\documents\visual studio 2012\Projects\MCI\MCI\obj\Debug\MCI.csproj.GenerateResource.Cache
+c:\users\ok2ju\documents\visual studio 2012\Projects\MCI\MCI\obj\Debug\MCI.exe
+c:\users\ok2ju\documents\visual studio 2012\Projects\MCI\MCI\obj\Debug\MCI.pdb
